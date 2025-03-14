@@ -2,7 +2,7 @@
 
 [![PyPI - Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://github.com/mainlp/discourse_probes/tree/main)
 [![PyPI - License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/mainlp/discourse_probes/blob/main/LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-TODO-<COLOR>.svg)](https://github.com/mainlp/discourse_probes/blob/main/)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.10515-<COLOR>.svg)]([https://github.com/mainlp/discourse_probes/blob/main/](https://arxiv.org/abs/2503.10515))
 
 This is the code repository with the implementations of our submission. You can find our unified label set under `data/unified_labels.json`.
 
