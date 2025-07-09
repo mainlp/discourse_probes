@@ -8,7 +8,7 @@ This is the code repository with the implementations of our submission. You can 
 
 ## Abstract
 
-<img src="images/disco-example-cond.png" width="50%" height="50%" align="right" />
+<img src="images/disco-example-cond.png" width="50%" align="right" />
 
 Discourse understanding is essential for many NLP tasks, yet most existing work remains constrained by framework-dependent discourse representations.
 
